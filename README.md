@@ -1,8 +1,8 @@
 # PkgDependencyGraph
 PackageDependencyGraph Visualizer_Analyzer_Reporting Tool
-# Copyright 2025-26 Beta ORI Inc. Canada. All Rights Reserved. 
-# Package Dependency Graph Visualizer/Analyzer/Reporting Tool For Integrations/Migrations 
-# Awase Khirni Syed awase008@gmail.com 
+## Copyright 2025-26 Beta ORI Inc. Canada. All Rights Reserved. 
+## Package Dependency Graph Visualizer/Analyzer/Reporting Tool For Integrations/Migrations 
+## Awase Khirni Syed awase008@gmail.com 
 
 # Current Version Focuses on Nodejs 
 # Work in progress for the following 
@@ -10,7 +10,7 @@ PackageDependencyGraph Visualizer_Analyzer_Reporting Tool
 2. Rust
 3. GoLang
 4. Java/Spring Boot
-Future 
+#Future 
 5. Haskell
 6. Clojure
    
