@@ -1,0 +1,92 @@
+2026-04-15 13:56:24 - npm_analyzer - INFO - Initialized analyzer for: /Volumes/MachdbkpAwase/Work/pkgdepgraphviz/my-node-project
+2026-04-15 13:56:24 - npm_analyzer - INFO - 🚀 Starting Advanced Node.js Dependency Analysis...
+2026-04-15 13:56:24 - npm_analyzer - INFO - 📦 Reading package files...
+2026-04-15 13:56:24 - npm_analyzer - ERROR - package.json not found at: /Volumes/MachdbkpAwase/Work/pkgdepgraphviz/my-node-project/package.json
+2026-04-15 14:03:38 - npm_analyzer - INFO - Initialized analyzer for: /Volumes/MachdbkpAwase/Work/pkgdepgraphviz/src/input/mantis-free-angular-admin-template-master
+2026-04-15 14:03:38 - npm_analyzer - INFO - Starting Advanced Node.js Dependency Analysis...
+2026-04-15 14:03:38 - npm_analyzer - INFO - Reading package files...
+2026-04-15 14:03:38 - npm_analyzer - INFO -   Loaded package.json (/Volumes/MachdbkpAwase/Work/pkgdepgraphviz/src/input/mantis-free-angular-admin-template-master/package.json)
+2026-04-15 14:03:38 - npm_analyzer - WARNING - package-lock.json not found - some analysis may be limited
+2026-04-15 14:03:38 - npm_analyzer - INFO - Building dependency tree...
+2026-04-15 14:03:39 - npm_analyzer - INFO - Built dependency tree with 34 top-level packages
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching package metrics...
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/animations@21.0.3
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/cdk@21.0.2
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/compiler@21.0.3
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/core@21.0.3
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/common@21.0.3
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/forms@21.0.3
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/platform-browser@21.0.3
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/platform-browser-dynamic@21.0.3
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @angular/router@21.0.3
+2026-04-15 14:03:39 - npm_analyzer - INFO - Fetching metrics for @ant-design/icons-angular@21.0.0
+2026-04-15 14:03:42 - npm_analyzer - INFO - Fetching metrics for @ng-bootstrap/ng-bootstrap@19.0.1
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for @popperjs/core@2.11.8
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for apexcharts@5.3.6
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for bootstrap@5.3.8
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for ng-apexcharts@2.0.4
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for ngx-scrollbar@18.0.0
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for rxjs@~7.8.2
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for tslib@2.8.1
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for @angular-devkit/build-angular@21.0.2
+2026-04-15 14:03:43 - npm_analyzer - INFO - Fetching metrics for @angular-eslint/builder@21.1.0
+2026-04-15 14:03:44 - npm_analyzer - INFO - Fetching metrics for @angular-eslint/eslint-plugin@21.1.0
+2026-04-15 14:03:44 - npm_analyzer - INFO - Fetching metrics for @angular-eslint/eslint-plugin-template@21.1.0
+2026-04-15 14:03:44 - npm_analyzer - INFO - Fetching metrics for @angular-eslint/schematics@21.1.0
+2026-04-15 14:03:44 - npm_analyzer - INFO - Fetching metrics for @angular-eslint/template-parser@21.1.0
+2026-04-15 14:03:44 - npm_analyzer - INFO - Fetching metrics for @angular/cli@21.0.2
+2026-04-15 14:03:44 - npm_analyzer - INFO - Fetching metrics for @angular/compiler-cli@21.0.3
+2026-04-15 14:03:44 - npm_analyzer - INFO - Fetching metrics for @eslint/eslintrc@3.3.3
+2026-04-15 14:03:45 - npm_analyzer - INFO - Fetching metrics for @eslint/js@9.39.1
+2026-04-15 14:03:45 - npm_analyzer - INFO - Fetching metrics for @types/node@24.10.2
+2026-04-15 14:03:46 - npm_analyzer - INFO - Fetching metrics for @typescript-eslint/eslint-plugin@8.49.0
+2026-04-15 14:03:46 - npm_analyzer - INFO - Fetching metrics for @typescript-eslint/parser@8.49.0
+2026-04-15 14:03:46 - npm_analyzer - INFO - Fetching metrics for eslint@9.39.1
+2026-04-15 14:03:46 - npm_analyzer - INFO - Fetching metrics for prettier@3.7.4
+2026-04-15 14:03:47 - npm_analyzer - INFO - Fetching metrics for typescript@5.9.3
+2026-04-15 14:03:49 - npm_analyzer - INFO - Finding complement recommendations...
+2026-04-15 14:03:49 - npm_analyzer - INFO - Fetching metrics for ts-node@latest
+2026-04-15 14:03:50 - npm_analyzer - INFO - Fetching metrics for ts-loader@latest
+2026-04-15 14:03:51 - npm_analyzer - INFO -   HTML report: /Volumes/MachdbkpAwase/Work/pkgdepgraphviz/src/input/mantis-free-angular-admin-template-master/dependency_report_20260415_140351.html
+2026-04-15 14:03:51 - npm_analyzer - INFO - 
+============================================================
+2026-04-15 14:03:51 - npm_analyzer - INFO - ✅ Analysis Complete!
+2026-04-15 14:03:51 - npm_analyzer - INFO - ⏱️  Duration: 13.5 seconds
+2026-04-15 14:03:51 - npm_analyzer - INFO - 📄 Reports generated: /Volumes/MachdbkpAwase/Work/pkgdepgraphviz/src/input/mantis-free-angular-admin-template-master/dependency_report_20260415_140351.html
+2026-04-15 14:03:51 - npm_analyzer - INFO - 
+📊 Project Summary:
+2026-04-15 14:03:51 - npm_analyzer - INFO -    Grade: B (Fair)
+2026-04-15 14:03:51 - npm_analyzer - INFO -    Health: 68.46/100
+2026-04-15 14:03:51 - npm_analyzer - INFO -    Risk: 0.0/10
+2026-04-15 14:03:51 - npm_analyzer - INFO -    Packages: 34
+2026-04-15 14:03:51 - npm_analyzer - INFO -    Complements: 2
+2026-04-15 14:03:51 - npm_analyzer - INFO -    Circular deps: 0
+2026-04-15 14:04:23 - npm_analyzer - INFO - Initialized analyzer for: /Volumes/MachdbkpAwase/Work/pkgdepgraphviz
+2026-04-15 14:04:23 - npm_analyzer - INFO - Starting Advanced Node.js Dependency Analysis...
+2026-04-15 14:04:23 - npm_analyzer - INFO - Reading package files...
+2026-04-15 14:04:23 - npm_analyzer - ERROR - package.json not found at: /Volumes/MachdbkpAwase/Work/pkgdepgraphviz/package.json
+2026-04-15 14:04:38 - npm_analyzer - INFO - Initialized analyzer for: /Volumes/MachdbkpAwase/Work/pkgdepgraphviz/src/input/mantis-free-angular-admin-template-master
+2026-04-15 14:04:38 - npm_analyzer - INFO - Starting Advanced Node.js Dependency Analysis...
+2026-04-15 14:04:38 - npm_analyzer - INFO - Reading package files...
+2026-04-15 14:04:38 - npm_analyzer - INFO -   Loaded package.json (/Volumes/MachdbkpAwase/Work/pkgdepgraphviz/src/input/mantis-free-angular-admin-template-master/package.json)
+2026-04-15 14:04:38 - npm_analyzer - WARNING - package-lock.json not found - some analysis may be limited
+2026-04-15 14:04:38 - npm_analyzer - INFO - Building dependency tree...
+2026-04-15 14:04:39 - npm_analyzer - INFO - Built dependency tree with 34 top-level packages
+2026-04-15 14:04:39 - npm_analyzer - INFO - Fetching package metrics...
+2026-04-15 14:04:39 - npm_analyzer - INFO - Finding complement recommendations...
+2026-04-15 14:04:39 - npm_analyzer - INFO -   HTML report: dependency_report_20260415_140439.html
+2026-04-15 14:04:39 - npm_analyzer - INFO -   Exported JSON report: dependency_report_20260415_140439.json
+2026-04-15 14:04:39 - npm_analyzer - INFO -   Exported Markdown report: dependency_report_20260415_140439.md
+2026-04-15 14:04:39 - npm_analyzer - INFO - 
+============================================================
+2026-04-15 14:04:39 - npm_analyzer - INFO - ✅ Analysis Complete!
+2026-04-15 14:04:39 - npm_analyzer - INFO - ⏱️  Duration: 0.4 seconds
+2026-04-15 14:04:39 - npm_analyzer - INFO - 📄 Reports generated: dependency_report_20260415_140439.html, dependency_report_20260415_140439.json, dependency_report_20260415_140439.md
+2026-04-15 14:04:39 - npm_analyzer - INFO - 
+📊 Project Summary:
+2026-04-15 14:04:39 - npm_analyzer - INFO -    Grade: B (Fair)
+2026-04-15 14:04:39 - npm_analyzer - INFO -    Health: 68.46/100
+2026-04-15 14:04:39 - npm_analyzer - INFO -    Risk: 0.0/10
+2026-04-15 14:04:39 - npm_analyzer - INFO -    Packages: 34
+2026-04-15 14:04:39 - npm_analyzer - INFO -    Complements: 2
+2026-04-15 14:04:39 - npm_analyzer - INFO -    Circular deps: 0

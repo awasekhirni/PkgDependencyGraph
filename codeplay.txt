@@ -1,0 +1,29 @@
+# Copyright 2025-2026 Beta ORI Inc. Canada. All Rights Reserved.
+# Author:Awase Khirni Syed
+
+# This project has been tested on version 3.9.6  Mac OS Version Sonoma
+pip 21.2.4 from /Volumes/Awase/Work/pkgdepgraphviz/lib/python3.9/site-packages/pip (python 3.9)
+
+# Analyze current directory, output HTML report
+python src/main.py
+
+Note: for demo purposes I have used the free version of github angular web code
+mantis-free-angular-admin-template-master.zip
+https://github.com/codedthemes/mantis-free-angular-admin-template
+Please download the angular project inside input folder
+src/input/mantis-free-angular-admin-template-master
+
+# Analyze specific project
+python src/main.py --path  src/input/mantis-free-angular-admin-template-master --format all --output ./reports/
+
+# Export in multiple formats
+python src/main.py --format all --output ./reports/
+
+# Use custom configuration
+python main.py --config .npm-analyzerrc
+
+# Enable verbose logging
+python main.py --verbose
+
+# Clear API cache
+python main.py --clear-cache

@@ -1,0 +1,79 @@
+# =============================================================================
+# Package (Node.js) Dependency Analyzer - Python Dependencies
+# =============================================================================
+# Install with: pip install -r requirements.txt
+# It could be pip or pip3. please ensure that you have installed the mython environment python3 -m venv .
+# source bin/activate to activate the environment
+# Install with optional features: pip install -r requirements.txt --extra-index-url ...
+# Awase Khirni Syed
+# Copyright 2025-26 Beta ORI Inc. Canada. All Rights Reserved.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Core Dependencies (Required)
+# -----------------------------------------------------------------------------
+requests>=2.31.0
+packaging>=23.2
+python-dotenv>=1.0.1
+tqdm>=4.66.0
+
+# -----------------------------------------------------------------------------
+# Optional Dependencies (Async Support)
+# Install with: pip install -r requirements.txt -c constraints.txt --extra "async"
+# Or: pip install "npm-dependency-analyzer[async]"
+# -----------------------------------------------------------------------------
+aiohttp>=3.9.0; python_version >= "3.7" and extra == "async"
+
+# -----------------------------------------------------------------------------
+# Optional Dependencies (Export Features: PDF, CSV, Excel)
+# Install with: pip install "npm-dependency-analyzer[export]"
+# -----------------------------------------------------------------------------
+weasyprint>=60.0; extra == "export"
+pandas>=2.0.0; extra == "export"
+openpyxl>=3.1.0; extra == "export"
+
+# -----------------------------------------------------------------------------
+# Development Dependencies
+# Install with: pip install -r requirements-dev.txt
+# Or: pip install "npm-dependency-analyzer[dev]"
+# -----------------------------------------------------------------------------
+# pytest>=7.4.0; extra == "dev"
+# pytest-cov>=4.1.0; extra == "dev"
+# black>=23.0.0; extra == "dev"
+# mypy>=1.5.0; extra == "dev"
+# ruff>=0.1.0; extra == "dev"
+# types-requests>=2.31.0; extra == "dev"
+# types-tqdm>=4.66.0; extra == "dev"
+
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.0; python_version >= "3.7"
+
+# Code Quality
+black>=23.0.0
+mypy>=1.5.0
+ruff>=0.1.0
+pre-commit>=3.4.0
+
+# Type Stubs
+types-requests>=2.31.0
+types-tqdm>=4.66.0
+types-python-dateutil>=2.8.19
+
+# Documentation
+sphinx>=7.0.0
+sphinx-rtd-theme>=1.3.0
+myst-parser>=2.0.0
+
+
+# Version constraints for dependency resolution
+
+requests==2.31.0
+packaging==23.2
+python-dotenv==1.0.1
+tqdm==4.66.1
+aiohttp==3.9.1
+weasyprint==60.2
+pandas==2.1.4
